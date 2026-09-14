@@ -4,6 +4,10 @@ Projeto Flutter desenvolvido como um desafio de UI, com o objetivo de recriar a 
 
 A proposta é treinar construção de telas, componentização e organização visual em um app multiplataforma, reproduzindo elementos característicos do Tinder como cards de perfil, botões de ação e estrutura de navegação.
 
+## 📸 Tela do projeto concluído
+![Tela do projeto concluído](https://raw.githubusercontent.com/JoseJacsanCode/desafioLayoutTinder/main/layout-tinder.png)
+
+
 ## 🚀 Tecnologias
 
 - [Flutter](https://flutter.dev/)
