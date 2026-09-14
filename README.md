@@ -48,4 +48,4 @@ Desenvolvido por [Jose Jacsan](https://github.com/JoseJacsanCode).
 
 ## 📄 Licença
 
-Licença não definida até o momento.
+[MIT License](https://github.com/JoseJacsanCode/desafioLayoutTinder/blob/main/LICENSE)
